@@ -1,0 +1,1 @@
+{'binWidth': 25, 'sigma': [3, 5], 'voxelArrayShift': 1000, 'normalize': True, 'normalizeScale': 100, 'geometryTolerance': 1e-05}
