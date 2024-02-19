@@ -4,10 +4,13 @@
 #### We present a multimodal deep imaging decision attention network (DIDANet) that integrates radiomics with traditional ML modules and introduces them into a neural network. DIDANet effectively predicts ER and postoperative TACE benefits in HCC patients. Additionally, it addresses overfitting in small-sample medical models to some extent.
 
 ## Network Architecture
-![输入图片说明](photos/4.png)
-## Quantitative & Qualitative Results on CDD and WHU
-![输入图片说明](photos/5.png)
-![输入图片说明](photos/2.png)
+![输入图片说明](fig/fig2.png)
+
+## Research Design
+![输入图片说明](fig/fig1.png)
+
+## Results in different centers
+![输入图片说明](fig/fig3.png)
 ##  Usage
 ### Requirements
 ```
