@@ -1,5 +1,6 @@
 # DIDANet: An Attentive Neural Decision Framework
 ### [website](didanet.wistu.cn) 'https://didanet.wistu.cn'
+### [code](https://github.com/iWiley/DIDANet) 'https://github.com/iWiley/DIDANet'
 
 #### We present a multimodal deep imaging decision attention network (DIDANet) that integrates radiomics with traditional ML modules and introduces them into a neural network. DIDANet effectively predicts ER and postoperative TACE benefits in HCC patients. Additionally, it addresses overfitting in small-sample medical models to some extent.
 
@@ -28,7 +29,7 @@ git clone https://github.com/iWiley/DIDANet.git
 ### Setting up conda environment:
 Create a virtual ```conda``` environment named ```Radiomics-CT-master``` with the following command:
 ```
-conda create --name GDCD --file requirements.txt
+conda create --name Radiomics-CT-master --file requirements.txt
 conda activate Radiomics-CT-master
 ```
 
